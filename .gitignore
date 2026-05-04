@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.Python
+*.so
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+backup/
+*.weights
+*.pt
+*.onnx
+.env
+.venv/
+venv/
